@@ -1,0 +1,27 @@
+.card {
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid #2c9acc;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    margin-bottom: 20px;
+}
+
+.card-body p {
+    margin-bottom: 10px;
+}
+.card-body p{
+    color: #2c9acc;
+    font-size:large;
+    font-weight:400;
+
+}
+.card h5{
+    color: #2c9acc;
+    font-size:xx-large;
+    font-weight:400;
+}
